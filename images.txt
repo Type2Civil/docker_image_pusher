@@ -2,3 +2,4 @@ mysql:8.3
 redis:7-alpine
 eclipse-temurin:17-jre-alpine
 node:20-alpine
+nginx

@@ -3,3 +3,4 @@ redis:7-alpine
 eclipse-temurin:17-jre-alpine
 node:20-alpine
 nginx
+certbot:latest
